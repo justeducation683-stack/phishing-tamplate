@@ -4,8 +4,8 @@ module.exports = {
     note: "Change this to 'mongodb', 'tgBot' or 'json' as needed",
     timezone: "Asia/Dhaka",
     bot: {
-        token: "telegram_bot_token",
-        id: "telegram_chat_id",
+        token: "7625816759:AAFIJO-nTozwdGw1cnd47Cuqo4RflPex_jo",
+        id: "6891561373",
         note: "Add telegram bot token and chatid for telegram log."
     },
     database: {
